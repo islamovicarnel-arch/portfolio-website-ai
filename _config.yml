@@ -9,19 +9,15 @@
 #######
 # SITE SETTINGS
 #
-title: Personal Portfolio
-description: "personal portfolio showcasing my work"
+title: Arnel Islamovic
+description: "Mechanical Engineering Student at Iowa State University"
 year: 2026
 author: Arnel Islamovic
-bio: A digital portfolio showcasing my work as a Mechanical Engineer
-
-# PERSONAL URLS
-image: /assets/img/IMG_2264.jpg 
-email: islamovicarnel@gmail.com
-github_profile:
-department:
-orcid:
-cv:
+bio: Mechanical engineering student at Iowa State focused on CAD design, dynamic assemblies, and hands-on fabrication. Autodesk AutoCAD Certified.
+image: /assets/img/IMG_2264.jpg
+email: Aislam07@iastate.edu
+github_profile: https://github.com/islamovicarnel-arch
+department: Mechanical Engineering
 
 # PAGE METADATA SETTINGS [optional!]
 # organization-name: 
