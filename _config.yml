@@ -9,11 +9,11 @@
 #######
 # SITE SETTINGS
 #
-title: Academic Portfolio Template
-description: "a basic personal or professional portfolio template for Jekyll with GitHub Pages"
+title: Personal Portfolio
+description: "personal portfolio showcasing my work"
 year: 2026
-author: ISU Cyclone
-bio:
+author: Arnel Islamovic
+bio: A digital portfolio showcasing my work as a Mechanical Engineer
 
 # PERSONAL URLS
 image: /assets/img/emoji-cool.png
